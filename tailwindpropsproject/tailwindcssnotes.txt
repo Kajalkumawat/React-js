@@ -1,0 +1,67 @@
+virtual DOM , fibre , reconsillation : 
+
+virtual dom not used in code but sometime interview puch leta hai
+--------------------
+read :documentation : 
+
+in main.jsx :have createRoot method : is used to create webstructure again this process is known as page reload .
+----------------------------
+what is virtual dom?
+
+read react fibre archietecture : https://github.com/acdlite/react-fiber-architecture
+
+virtual dom update this is called fibre.
+----------------------------
+tailwind and props :
+ 
+tailwindpropsproject
+
+make project on :
+npm create vite@latest
+
+then select :react 
+	javascript 
+
+npm install 
+
+npm run dev 
+
+------------
+step 1:
+go :tailwind css .com
+
+step2:get started 
+
+step3 :framework then vite 
+
+step 4 : 
+npm install -D tailwindcss postcss autoprefixer
+
+step 5:
+npx tailwindcss init -p
+
+then generate the file of tailwind css 
+
+step 6 :add content 
+ content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+this part 
+
+step 7:index.css add some time from the page of tailwind css website 
+
+add index.css top side of the code 
+
+step 8 : 
+npm run dev
+---------------------------
+
+
+
+
+
+
+
+
+
